@@ -1,2 +1,2 @@
-# devweekgit.github.io
+# gabriela-teixeira.github.io
 Currículo do Jornada Dev
